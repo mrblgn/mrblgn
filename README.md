@@ -3,7 +3,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 Mobile & Web Developer
 -----------------
-* 🖥️  See my portfolio at [mrblgn](mrblgn.netlify.app)
+* 🖥️  See my portfolio at [mrblgn](https://mrblgn.netlify.app)
 * ✉️  You can contact me at:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=omerbilgin1@gmail.com)
