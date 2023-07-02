@@ -7,7 +7,7 @@ Mobile & Web Developer
 * ✉️  You can contact me at:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=omerbilgin1@gmail.com)
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-bilgin2022) -->
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-blgn) -->
 
 <a href="https://www.github.com/mrblgn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mrblgn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/mrblgn?logo=twitter&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omer-bilgin2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.github.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mr-blgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <!-- <a href="https://www.twitter.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
 </p>
 
