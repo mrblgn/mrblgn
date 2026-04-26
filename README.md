@@ -21,9 +21,7 @@ src="https://img.shields.io/twitter/follow/mrblgn?logo=twitter&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mr-blgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<!-- <a href="https://www.twitter.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
-</p>
+<table><tr><td><a href="https://www.github.com/mrblgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></td><td><p align="left">  <a href="https://www.linkedin.com/in/mr-blgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </td></tr></table>
 
 ### Badges
 
