@@ -17,7 +17,6 @@ src="https://img.shields.io/twitter/follow/mrblgn?logo=twitter&style=for-the-bad
 
 ### Skills
 
-```html
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -72,7 +71,6 @@ src="https://img.shields.io/twitter/follow/mrblgn?logo=twitter&style=for-the-bad
   <a href="https://metamask.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
   <a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3.js" /></a>
 </p>
-```
 
 ### Socials
 
